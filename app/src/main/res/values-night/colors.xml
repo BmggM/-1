@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#111217</color>
+    <color name="surface">#1B1C23</color>
+    <color name="surface_alt">#242630</color>
+    <color name="text_primary">#F4F4F7</color>
+    <color name="text_secondary">#A6A7B2</color>
+    <color name="accent">#9A95FF</color>
+    <color name="accent_soft">#2A294C</color>
+    <color name="danger">#FF746A</color>
+    <color name="divider">#32343E</color>
+    <color name="cat_general">#9A95FF</color>
+    <color name="cat_anniversary">#FF7AB0</color>
+    <color name="cat_work">#75A7FF</color>
+    <color name="cat_study">#C092F2</color>
+    <color name="cat_meeting">#F2A45E</color>
+    <color name="cat_travel">#5DCDBD</color>
+    <color name="cat_birthday">#EBCB5F</color>
+</resources>
